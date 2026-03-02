@@ -101,6 +101,7 @@ MODEL = "voxtral-mini-latest"
 Ensure your audio URL is publicly accessible — private links will fail.
 
 🚀 Project Structure
+```bash
 vox_graph/
 ├── backend/
 │   ├── application.py        # FastAPI backend
