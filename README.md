@@ -1,6 +1,6 @@
 # 🎤 VoxGraph
 
-VoxGraph is a full-stack AI demo that converts speech into a **structured knowledge graph**. Users provide a public audio URL, and the app:
+VoxGraph is a full-stack AI application that converts speech into a **structured knowledge graph**. Users provide a public audio URL, and the app:
 
 1. Transcribes the audio using **Mistral Voxtral**.
 2. Extracts entities and relations with **Mistral chat models**.
