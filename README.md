@@ -4,7 +4,7 @@ VoxGraph is a full-stack AI application that converts speech into a **structured
 
 1. Transcribes the audio using **Mistral Voxtral**.
 2. Extracts entities and relations with **Mistral chat models**.
-3. Builds and renders a knowledge graph in the browser using **React + Cytoscape**.
+3. Builds and renders a knowledge graph using **React + Cytoscape**.
 
 ---
 <img width="955" height="276" alt="image" src="https://github.com/user-attachments/assets/1fc8014e-b920-4b51-afe9-5a7b26dd2948" />
