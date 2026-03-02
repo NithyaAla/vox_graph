@@ -107,7 +107,7 @@ vox_graph/
 │   ├── models.py             # Pydantic models
 │   ├── graph_builder.py      # Graph construction logic
 │   ├── mistral_client.py     # Voxtral + Mistral API calls
-│   └── .env                  # API key
+│   
 ├── frontend/
 │   ├── app.jsx               # Main React app
 │   ├── api.js                # Axios calls to backend
